@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+
+
+#textbox {
+  margin :100px;
+  width: 90vw;
+  padding: 40px;
+  font-size: 80px;
+
+    white-space: nowrap;
+  overflow: hidden;
+}
+
+.fa-user-edit {
+  cursor: pointer
+}
