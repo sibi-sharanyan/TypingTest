@@ -1,5 +1,5 @@
 
-### The Application is live at (https://typingtest.netlify.com/)
+### The Application is live at `https://typingtest.netlify.com/`
 
 
 
